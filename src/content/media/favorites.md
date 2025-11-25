@@ -5,7 +5,7 @@ videos:
     url: "https://www.youtube.com/watch?v=7g1pmHSWHe0"
     channel: "exurb1a"
     platform: "YouTube"
-    added: 2025-11-24
+    added: 2025-24-11
     note: "Young Tao sets out to kill the mythical "snake" that took his father, believing that then everything will be okay."
 ---
 
