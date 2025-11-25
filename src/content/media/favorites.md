@@ -6,7 +6,8 @@ videos:
     channel: "exurb1a"
     platform: "YouTube"
     added: 2025-24-11
-    note: "Young Tao sets out to kill the mythical "snake" that took his father, believing that then everything will be okay."
+    note: "Young Tao sets out to kill the mythical snake that took his father believing that then everything will be okay."
+
 ---
 
 ### Why these made the cut
